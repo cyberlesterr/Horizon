@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: Horizon Daily
+description: AI 每日新闻速递
+future: true
+plugins:
+  - jekyll-feed
